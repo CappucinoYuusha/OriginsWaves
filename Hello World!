@@ -1,8 +1,0 @@
-algoritmo "Hello World!"
-var
- msg: caractere
-
-inicio
- msg <- "Olá Mundo"
- Escreval ("Bem vindo ao jogo", msg)
-fimalgoritmo
